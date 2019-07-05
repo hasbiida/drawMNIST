@@ -1,0 +1,4 @@
+
+
+# rn-nodeify error
+yarn add stream-browserify stream
